@@ -1,2 +1,2 @@
-# vae_torch
+# VAE
 Variational Auto-Encoder implementation in PyTorch. 
